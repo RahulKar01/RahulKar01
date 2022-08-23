@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RahulKar01
+- 👋 Hi, I’m @RahulKar
 - 👀 I’m interested in ... Competitive Programming & DSA
 - 🌱 I’m currently learning ...DSA
 - 💞️ I’m looking to collaborate on ...
